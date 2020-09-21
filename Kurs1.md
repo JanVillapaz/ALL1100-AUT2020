@@ -26,6 +26,12 @@ Woher kommst du? : Formal vs Informal // Sie vs Du
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Ah|Bay|Tsay|Day|Ay|Eff|Gay|Hah|Eeh|Yot|Kah|Ell|Em|En|Oh|Pay|Koo|Air|Es|Tay|Ooh|Faw|Vay|Iks|Oopsilohn|Tset|
 
-|Ä or ä a-Umlaut|Ö or ö o-Umlaut|Ü or ü u-Umlaut|ß Es-Zet|
+|Ä or ä a-Umlaut|Ö or ö o-Umlaut|Ü or ü u-Umlaut|ß Es-Zett|
 |-|-|-|-|
-||eeuuh (long) : euh (short)|oooh (long) : euh (short)||
+|Ey(long) : Eh(short)|eeuuh (long) : euh (short)|oooh (long) : euh (short)|ss|
+
+## Wie Shreibt Man das?
+- Wie ist Ihr/dein Familiennename? - ...
+- Wie bitte ? - ...
+- Wie schreibt man das? Buchstabieren Sie, bitte! - ..
+- Noch einmal! Langsam, bitte - ...
