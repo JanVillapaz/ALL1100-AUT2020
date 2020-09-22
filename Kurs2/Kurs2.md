@@ -74,3 +74,61 @@ Ich wohne in Montreal -> I live in Montreal
 |-|-|-|-|-|-|-|-|-|-|-|
 |null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|zehn|
 
+## Wie schreibt man da? -> How do you write that?
+
+- Wie ist Ihr Familienname ? -> what is your last name?
+- Wie bitte ? -> I beg your pardon?
+- Wie schreibt man das? Buchstabieren Sie, bitte! -> How do you write that? Spell that, please!
+- Noch einmal! Langsam, bitte -> Once again, slowly please
+
+1. a) Wie ist Ihr / dein Vorname? -> What is your first name?
+Mein Vorname ist Jan -> My name is Jan
+b) Wie ist Ihr / dein familienname ? -> What is your last name?
+c) Wie heißen sie / heißt du? -> What's your name
+
+2. Wo wohnen Sie / wohnst du? -> Where do you live?
+- ich wohne in Montreal
+3. Woher kommen sie / kommst du? -> Where are you from?
+- Ich komme aus Quebec
+4. Wie ist Ihre / deine Telefonnummer ?
+Mein telefonnummer ist funf-eins-vier sechs-null-eins-zwei-eins-null-neun
+
+## Wer ist das?
+
+- Das ist Tina / Mikail. ODER: OR
+- Sie heißt Tina / Er heißt Mikail
+- Sie/ Er kommt aus Kanada
+- Sie/Er wohnt in Montreal
+- Ihre/Seine Telefonnummer ist ..
+
+## Konjugation: (kon yu gatsyon)
+
+### trinken (regelmäßig) to drink
+
+- ich trinke
+- du trinkst
+- er,sie,es trinkt
+- wir trinken
+- ihr trinkt
+- Sie, sie trinken
+
+### möchten (Modalverb) -> Would like (Can, should, must) -> Permission, request, suggest type of verb 
+
+- ich möchte
+- du möchtest
+- er,sie,es möchte
+- wir möchten
+- ihr möchtet
+- Sie, sie möchten
+
+## Konjugation : Nehmen (UNREGELMÄSSIG) -> To take
+
+- ich nehme
+- du nimmst
+- er,sie,es nimmt
+- wir nehmen
+- Ihr nehmt
+- Sie,sie nehmen
+
+## Aussprache -> Pronounciation
+- **C** : Claudia
