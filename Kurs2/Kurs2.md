@@ -131,4 +131,5 @@ Mein telefonnummer ist funf-eins-vier sechs-null-eins-zwei-eins-null-neun
 - Sie,sie nehmen
 
 ## Aussprache -> Pronounciation
-- **C** : Claudia
+- **C** : Claudia -> Klau-dia
+- **G** : Guten = Gooten, Tag = Tak, zwanzig = zvanzich
