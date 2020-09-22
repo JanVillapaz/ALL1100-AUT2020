@@ -132,4 +132,4 @@ Mein telefonnummer ist funf-eins-vier sechs-null-eins-zwei-eins-null-neun
 
 ## Aussprache -> Pronounciation
 - **C** : Claudia -> Klau-dia
-- **G** : Guten = Gooten, Tag = Tak, zwanzig = zvanzich
+- **G** : Guten = Gooten, Tag = Tak, zwanzig = zvanzikh
