@@ -35,3 +35,45 @@ Woher kommst du? : Formal vs Informal // Sie vs Du
 - Wie bitte ? - ...
 - Wie schreibt man das? Buchstabieren Sie, bitte! - ..
 - Noch einmal! Langsam, bitte - ...
+
+## Konjugation : Aus Quebec Kommen (REGELMÄSSIG) // Come from Quebec
+
+- ich komm**e** aus Quebec // I'm come from
+- du komm**st** aus Quebec // You come from
+- er,die,es komm**t** aus Quebec // He, She, It comes from (Lowercase in german)
+- wir // We
+- ihr (vous - informal) 
+- **S**ie (Polite way for one or more people = vous - formal)
+- **s**ie (ils, elles, they) komm**en** aus Quebec // They come from
+
+## Konjugation : In italien wohnen (REGELMÄSSIG)
+
+- ich wohn**e** in Quebec
+- du wohn**st** in Qiebec
+- er,sie,es wohn**t** in Quebec
+- wir
+- ihr 
+- ***S***ie
+- ***s***ie wohn***e***n in Quebec
+
+## Wie Heissen Sie ? Heissen (REGELMÄSSIG)
+
+- ich heiße ...
+- du heißt ...
+er/sie heißt ...
+wir
+ihr
+***S***ie
+***s***ie heißen
+
+## Guten Morgen ! Guten Tag ! Guten Abend !
+
+1. Wie ist Ihr / dein Name? -> What is your name?
+Mein Name ist... -> My name is
+2. Wer ist das? -> Who is this
+Das ist... -> This is...
+3. Woher kommen Sie / kommst du? -> Where are you from
+Ich komme aus Deutschland. -> I come from Germany
+4. Wo wohnen Sie / wohnst du? -> Where do you live?
+Ich wohne in Montreal. -> I live in Germany
+
