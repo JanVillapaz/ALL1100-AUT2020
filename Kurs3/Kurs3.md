@@ -142,7 +142,7 @@ Hallo Ina, ich heise Jan. Danke, sehr gut und du?
 
 - ich mochte
 - du mochtest
-- ir/sie/es mochtet
+- ir/sie/es mochte
 - Wir mochten
 - ihr mochtet
 - Sie mochten
