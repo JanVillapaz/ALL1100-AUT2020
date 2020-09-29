@@ -73,10 +73,26 @@
 ### Phonetics
 
 1. W-fragen 
-|| Position 2 ||||
+
+| | Position 2 | | | |
 |-|-|-|-|-|
 | Woher | kommen | Sie? | Aus Italien | |
 | Was | triken | Sie? | Kaffee, bitte. | Woher kommen Sie? |
+| Wie viel Uhr | ist | es? | Half zwei |
+| Wann | kommst | du? | Um drei |
+| Wer | spricht | Russisch? | Ich |
+
+2. Satzfragen
+
+| | Position 2 | | |
+|-|-|-|-|
+| Kommen | Sie | aus Italien? | |
+| Trinken | Sie | Kaffee? | Kommen sie aus Italien? |
+| Warst | du | schon mal in Munchen? | |
+| Konnen | Sie | das bitte wiederholen? | |
+
+
+
 
 
 
