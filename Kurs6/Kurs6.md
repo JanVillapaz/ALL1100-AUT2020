@@ -53,6 +53,7 @@ Deutsch - Kurssprache / Course Language
 
 ### Syntaxe: La position des compléments dans une phrase d'énonciation
 - S: Sujet, V: Verbe, CT: Complément de temps, CM: Complment de mode, CL: Complément de lieu
+
 1. Fatih wohnt jetzt mit seinen Eltern in Hamburg.
 2. Schema: S- V- CT- CM- CL-
 3. In Hamburg wohnt Fatih jetzt mit seinen Eltern.
@@ -61,3 +62,40 @@ Deutsch - Kurssprache / Course Language
 6. Schema: CT- V- S- CM- CL-
 7. Mit seinen Eltern wohnt Faith jetzt in Hamburg.
 8. Schema: CM- V- S- CT- CL-
+
+### Wohnen
+- s Einfamilienhaus
+- s Hochhaus
+- s Reihenhaus
+- s Fachwerkhaus
+- e Altbauwohng, en
+- s Zimmer, - 
+- e Wohngemeinschaft, en
+- r Garten,
+- r Balkon, e
+- e Terrasse, n
+- in der Stadt
+- in der Vorstadt
+- auf dem Land
+
+### Das adjektiv
+- hell
+- dunkel
+- gross
+- klein
+- ruhig
+- laut
+- alt
+- modern/neu
+- gemeutlich
+- ungemeutlich
+- nett / freundlich
+- unfreundlich
+- toll
+- bloed
+- teuer
+- guenstig
+
+
+
+
